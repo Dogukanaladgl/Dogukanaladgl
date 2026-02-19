@@ -2,12 +2,12 @@
   <img src="https://github.com/Dogukanaladgl/Dogukanaladgl/blob/main/image.png" width="1000">
 </p>
 
-<h1 align="center">Hi 👋, I'm Doğukan Mehmet Aladağlı</h1>
+<h1 align="center">Hi , I'm Doğukan Mehmet Aladağlı</h1>
 <h3 align="center">A passionate computer engineer from Turkey</h3>
 
-- 🔭 I’m currently working on **C#**
-- 🌱 I’m currently learning **.NET, Bootstrap**
-- 📫 How to reach me **dogukana4250@gmail.com**
+-  I’m currently working on **C#**
+-  I’m currently learning **.NET, Bootstrap**
+-  How to reach me **dogukana4250@gmail.com** 📫 
 
 <h3 align="left">Connect with me:</h3>
 
