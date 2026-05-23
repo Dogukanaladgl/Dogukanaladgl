@@ -38,54 +38,33 @@ Personal portfolio website focused on modern UI, performance and clean developer
 
 ## Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### Mobile
+### Mobile Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,expo,androidstudio" />
 </p>
 
-</td>
-
-<td valign="top" width="50%">
-
-### Web & API
+### Backend & APIs
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,nestjs,html,css,tailwind,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,,nestjs,postgres,mssql,firebase" />
 </p>
 
-</td>
-</tr>
+### Web & Frontend
 
-<tr>
-<td valign="top" width="50%">
-
-### AI & Computer Vision
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
 </p>
 
-</td>
-
-<td valign="top" width="50%">
 
 ### DevOps & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,vscode,visualstudio,linux,postman,idea" />
+  <img src="https://skillicons.dev/icons?i=docker,git,vscode,visualstudio,postman" />
 </p>
 
-</td>
-</tr>
-</table>
-
 ---
-
 
 ## Contribution Snake
 
