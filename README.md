@@ -2,7 +2,7 @@
 
 # Doğukan Mehmet Aladağlı
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Engineer;Backend+%26+AI+Developer;Building+Modern+and+Scalable+Applications;Mobile+%7C+Web+%7C+System+Development" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Engineer;Full+Stack+Developer;Mobile+%7C+Web+%7C+System+Development;Building+Modern+and+Scalable+Applications" />
 
 </div>
 
@@ -17,10 +17,11 @@ I enjoy building real-world applications involving:
 
 - Backend Development
 - Mobile Applications
+- Modern Web Technologies
 - RESTful APIs
 - System Design
 - AI Integrations
-- Modern Web Technologies
+
 
 ---
 
