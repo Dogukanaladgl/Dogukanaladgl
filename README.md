@@ -38,6 +38,82 @@ Personal portfolio website focused on modern UI, performance and clean developer
 
 ## Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Mobile
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio" />
+</p>
+
+</td>
+
+<td valign="top" width="50%">
+
+### Web & API
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,html,css,tailwind,postgres" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="48" height="48"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48"/>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="50%">
+
+### AI & Computer Vision
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+</p>
+
+</td>
+
+<td valign="top" width="50%">
+
+### DevOps & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,postman,vscode" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" height="48"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48"/>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="50%">
+
+### Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet" />
+</p>
+
+</td>
+
+<td valign="top" width="50%">
+
+### Currently Exploring
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+</p>
+
+</td>
+</tr>
+</table>
+
 ### Mobile Development
 
 <p align="left">
