@@ -82,9 +82,9 @@ Personal portfolio website focused on modern UI, performance and clean developer
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dogukanaladagli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dogukanaladg1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogukanaladagli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dogukanaladg1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -94,7 +94,7 @@ Personal portfolio website focused on modern UI, performance and clean developer
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dogukanaladagli&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dogukanaladg1&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -104,7 +104,7 @@ Personal portfolio website focused on modern UI, performance and clean developer
 
 <div align="center">
 
-![Snake animation](https://github.com/dogukanaladagli/dogukanaladagli/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Dogukanaladg1/Dogukanaladg1/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -113,7 +113,9 @@ Personal portfolio website focused on modern UI, performance and clean developer
 # Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/do%C4%9Fukan-alada%C4%9Fl%C4%B1-0a661a254/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+
+<a href="https://www.linkedin.com/in/do%C4%9Fukan-alada%C4%9Fl%C4%B1-0a661a254/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
+
 </p>
