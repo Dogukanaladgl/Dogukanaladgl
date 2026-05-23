@@ -41,13 +41,13 @@ Personal portfolio website focused on modern UI, performance and clean developer
 ### Mobile Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,expo,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
 </p>
 
 ### Backend & APIs
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,,nestjs,postgres,mssql,firebase" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,postgres,firebase" />
 </p>
 
 ### Web & Frontend
